@@ -19,6 +19,12 @@ body {
   clear: both;
 }
 
+.img-fluid {
+  /* max-width: 50%; */
+
+}
+
+
 h1,
 h2,
 h3,
@@ -201,6 +207,7 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
+}
 
 .col-sm-6 {
   margin-left: 30px;
